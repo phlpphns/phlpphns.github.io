@@ -1,6 +1,6 @@
 [about me]
 ------
-<a href=""><img src="img/photo_philipp.png" alt="Philipp" height="320"></a>
+<a href="https://phlpphns.github.io"><img src="img/photo_philipp.png" alt="Philipp" height="320"></a>
 * [phlpphns](https://phlpphns.github.io) - a first test of setting up my github page.
 
 [Rust]
