@@ -8,7 +8,7 @@
 ------
 <a href="https://www.rust-lang.org/"><img src="img/rust-logo-blk.svg" alt="Rust" height="32"></a>
 
-
+<!---
 [Rust] / [WebAssembly]
 ----------------------
 <a href="https://www.rust-lang.org/"><img src="img/rust-logo-blk.svg" alt="Rust" height="32"></a>
@@ -17,3 +17,4 @@
 <a href="https://www.typescriptlang.org/"><img src="img/typescriptlang-icon.svg" alt="JavaScript" height="32"></a>
 
 * [fractx-wasm-demo](https://phlpphns.github.io/test_submodule) - a [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) set WebAssembly [demo](/rust-fractx-wasm-demo/) in Rust. Thank you to [royaltm](https://royaltm.github.io/), whose repo I copied for learning reasons.
+--->
