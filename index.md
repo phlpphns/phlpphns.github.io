@@ -4,12 +4,13 @@
 
 * [phlpphns](https://phlpphns.github.io) - this is a link to my github account. Maybe you find something ineresting there, for example a template for CV and a thesis in LaTeX. Also, I provide a couple of tools for scientific data analyis there (more to come!).
 
+[European Crystallographic Association]
+------
+[Inclusion – not only in crystals: spotting and overcoming potential obstacles](https://phlpphns.github.io/ECM34_MS_inclusion/) - a microsymposium at the ECM34 (34th European Crystallographic Meeting)
+
 [Rust]
 ------
 <a href="https://www.rust-lang.org/"><img src="img/rust-logo-blk.svg" alt="Rust" height="32"></a>
-
-[European Crystallographic Association]
-[Inclusion – not only in crystals: spotting and overcoming potential obstacles](https://phlpphns.github.io/ECM34_MS_inclusion/) - a microsymposium at the ECM34 (34th European Crystallographic Meeting)
 
 
 <!---
