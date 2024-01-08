@@ -19,7 +19,7 @@ I am a crystallographer. - I am interested in e.g. machine learning, approximati
 
 [SIG-15 Crystallography in Art and Cultural Heritage](https://ecanews.org/groups/sig-15-crystallography-in-art-and-cultural-heritage/)
 
-[ECA IM Forum](https://ecanews.org/groups/eca-im-forum/)
+[ECA Individual Member Forum](https://ecanews.org/groups/eca-im-forum/)
 
 [Rust](https://www.rust-lang.org/)
 ------
