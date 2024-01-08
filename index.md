@@ -8,6 +8,8 @@ I am a crystallographer. - I am interested in e.g. machine learning, approximati
 
 [find me on ORCID!](https://orcid.org/0000-0002-3505-9884)
 
+[find me on medium.com!](https://medium.com/@phlpphns)
+
 ------
 
 [European Crystallographic Association](https://ecanews.org/)
