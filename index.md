@@ -1,14 +1,25 @@
-[about me]
+I am Philipp.
 ------
 <a href="https://phlpphns.github.io"><img src="img/photo_philipp.png" alt="Philipp" height="320"></a>
 
-* [phlpphns](https://phlpphns.github.io) - this is a link to my github account. Maybe you find something ineresting there, for example a template for CV and a thesis in LaTeX. Also, I provide a couple of tools for scientific data analyis there (more to come!).
+I am a crystallographer. - I am interested in e.g. machine learning, approximation theory, automation, philosophy. Please contact me for discussions.
 
-[European Crystallographic Association]
+[find me on linkedin!](https://jo.linkedin.com/in/philipp-hans-a5b9681a7?trk=people-guest_people_search-card)
+
+[find me on ORCID!](https://orcid.org/0000-0002-3505-9884)
+
 ------
+
+[European Crystallographic Association](https://ecanews.org/)
+------
+
 [Inclusion – not only in crystals: spotting and overcoming potential obstacles](https://phlpphns.github.io/ECM34_MS_inclusion/) - a microsymposium at the ECM34 (34th European Crystallographic Meeting)
 
-[Rust]
+[SIG-15 Crystallography in Art and Cultural Heritage](https://ecanews.org/groups/sig-15-crystallography-in-art-and-cultural-heritage/)
+
+[ECA IM Forum](https://ecanews.org/groups/eca-im-forum/)
+
+[Rust](https://www.rust-lang.org/)
 ------
 <a href="https://www.rust-lang.org/"><img src="img/rust-logo-blk.svg" alt="Rust" height="32"></a>
 
