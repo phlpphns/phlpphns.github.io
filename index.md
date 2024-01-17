@@ -17,9 +17,13 @@ I am a crystallographer. - I am interested in e.g. machine learning, approximati
 
 [Inclusion – not only in crystals: spotting and overcoming potential obstacles](https://phlpphns.github.io/ECM34_MS_inclusion/) - a microsymposium at the ECM34 (34th European Crystallographic Meeting)
 
-[SIG-15 Crystallography in Art and Cultural Heritage](https://ecanews.org/groups/sig-15-crystallography-in-art-and-cultural-heritage/)
+[Events organised by the European Young Crystallographers](https://phlpphns.github.io/EYC_events/) - satellite meetings, science slams, workshops, conferences....
 
 [ECA Individual Member Forum](https://ecanews.org/groups/eca-im-forum/)
+
+[SIG-15 Crystallography in Art and Cultural Heritage](https://ecanews.org/groups/sig-15-crystallography-in-art-and-cultural-heritage/)
+
+[GIG-01 Young Crystallographers](https://ecanews.org/groups/gig-01-young-crystallographers/)
 
 [Rust](https://www.rust-lang.org/)
 ------
