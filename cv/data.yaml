@@ -1,0 +1,85 @@
+# Curriculum Vitae Data
+# Comments are supported! Use '#' to comment out lines you don't want to display
+
+personal:
+  name: "Philipp Hans"
+  title: "Crystallographer & Software Developer"
+  tagline: "Building scientific software at the intersection for crystallography."
+  # email: "your.email@example.com"  # Uncomment to display
+  # location: "City, Country"
+
+experience:
+  - title: "Researcher in Electron Diffraction and Scientific Software Development"
+    company: "University of Copenhagen"
+    location: "Copenhagen, Denmark"  # Optional
+    period: "2025 - Present"
+    description: "Electron diffraction and building high-performance software applications for crystallographic data analysis and data visualization."
+    # highlights:  # Optional list of achievements
+    #   - "Developed WebAssembly-based crystallography tools"
+    #   - "Improved performance by 300%"
+
+  - title: "Beamline Scientist for X-ray Diffraction and X-ray Computed Tomography"
+    company: "SESAME Synchrotron"
+    period: "2022 - 2025"
+    description: "."
+
+  # - title: "Another Role"  # Commented out - won't display
+  #   company: "Another Company"
+  #   period: "2018 - 2020"
+  #   description: "This entry is commented out."
+
+education:
+  - degree: "Ph.D. in Crystallography"
+    institution: "TU Wien"
+    location: "Vienna, Austria"  # Optional
+    period: "2014 - 2018"
+    description: "Specialized in x-ray powder diffraction and total scattering methods."
+    thesis: "A contribution to the critical assessment of atom-atom pair distribution function analysis."  # Optional
+
+  - degree: "M.Sc. in Technical Chemistry"
+    institution: "TU Wien"
+    period: "2012 - 2014"
+    description: "Focus on materials and corrosion science."
+    thesis: "The corrosion behavior on nickel-aluminium bronzes in freshwater."  # Optional
+
+skills:
+  - category: "Languages & Frameworks"
+    items:
+      - "Rust"
+      - "Python"
+      - "Dioxus"
+      # - "C++"  # Commented out
+
+  - category: "Scientific Computing"
+    items:
+      - "Crystallography"
+      - "Data Analysis"
+      - "Scientific Visualization"
+      - "NumPy/SciPy"
+
+  - category: "Tools & Technologies"
+    items:
+      # - "WebAssembly"
+      - "Git"
+      # - "Docker"
+      - "Linux"
+      - "Windows"
+      - "CI/CD"
+
+publications:  # Optional section - uncomment to use
+  - title: "Paper Title"
+    authors: "Author 1, Author 2, Your Name"
+    journal: "Journal Name"
+    year: 2025
+    doi: "10.xxxx/xxxxx"
+  - title: "Paper Title"
+    authors: "Author 1, Author 2, Your Name"
+    journal: "Journal Name"
+    year: 2025
+    doi: "10.xxxx/xxxxx"
+
+# awards:  # Optional section
+#   - title: "Award Name"
+#     organization: "Organization"
+#     year: 2022
+#     description: "Brief description"
