@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "ml-crystallography",
+    "title": "Machine Learning in Crystallography: A Practical Guide",
+    "excerpt": "How modern ML techniques are revolutionizing crystal structure analysis. From data preprocessing to model deployment in research labs.",
+    "date": "Nov 28, 2025",
+    "readTime": "12 min",
+    "tags": ["Crystallography", "ML", "Python"],
+    "featured": true
+  },
+  {
+    "slug": "mentoring-science-eca",
+    "title": "Mentoring in Science: Lessons from the ECA",
+    "excerpt": "Reflections on fostering inclusion and supporting early-career researchers through the European Crystallographic Association.",
+    "date": "Nov 15, 2025",
+    "readTime": "6 min",
+    "tags": ["Mentoring", "Science", "Career"],
+    "featured": false
+  }
+]
