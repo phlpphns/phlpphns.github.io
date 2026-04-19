@@ -1,3 +1,11 @@
+---
+title: "Building a Modern Web Portfolio with Rust and Dioxus"
+excerpt: "In this post, I'll walk through building a personal portfolio website using Rust, Dioxus 0.7, and WebAssembly."
+date: "Dec 14, 2025"
+readTime: "8 min"
+tags: ["Rust", "Dioxus", "WebAssembly"]
+featured: true
+---
 # Building a Modern Web Portfolio with Rust and Dioxus
 
 **December 14, 2025** · 8 min read
@@ -27,8 +35,9 @@ fn Home() -> Element {
 ## Deployment
 
 I use GitHub Pages with a two-repository setup:
-- **Private repo**: Rust source code
-- **Public repo**: Compiled WASM bundle
+
+    Private repo: Rust source code
+    Public repo: Compiled WASM bundle
 
 ## Conclusion
 
